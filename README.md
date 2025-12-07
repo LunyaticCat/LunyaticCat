@@ -7,7 +7,6 @@ To conclude, you have to admit, cats are cute.
 <div align="center">
   
   <a href="https://github.com/jstrieb/github-stats">![](https://github.com/LunyaticCat/github-stats/blob/master/generated/overview.svg) <br></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunyaticCat&hide=latte,makefile,C%23&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
 </div>
 
 # Languages I use :computer: :
